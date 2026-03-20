@@ -5,4 +5,4 @@ This are a few webpages with some recipes to practice and master the following b
 
 HTML boilerplate 
 HTML  elements
-version control with git
+Version control with git
